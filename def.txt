@@ -1,1 +1,2 @@
 I hate coding
+learning git
